@@ -1,5 +1,5 @@
-# ProxyChanger
-Proxy Changer UI
+# ProxyHandler
+Proxy Handler UI
 
 After running the "ProxySettingsTrayIcon.exe", a trayicon will be created and by clicking on it you will be in the home of the application:
 
