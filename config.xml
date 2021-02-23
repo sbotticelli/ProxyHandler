@@ -1,0 +1,15 @@
+<!-- config.xml -->
+<proxies>
+  <proxy>
+    <id>1</id>
+    <name>ProxyHTTP</name>
+    <value>proxy1.contoso.com:8080</value>
+    <lastused>true</lastused>
+  </proxy>
+  <proxy>
+    <id>2</id>
+    <name>ProxyPAC</name>
+    <value>http://proxyPAC.contoso.com:8080/proxypac/pac.pac</value>
+    <lastused>false</lastused>
+  </proxy>
+</proxies>
