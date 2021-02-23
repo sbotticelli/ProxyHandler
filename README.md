@@ -16,7 +16,11 @@ Proxy Changer UI
 ![ProxySettings_NewProxyDefinition2](https://github.com/sbotticelli/ProxyChanger/blob/main/img/ProxySettings_NewProxyDefinition2.PNG)
 
 
+
+
 ![ProxySettings_IconTrayDescription](https://github.com/sbotticelli/ProxyChanger/blob/main/img/ProxySettings_IconTrayDescription.PNG)
+
+
 
 
 ![ProxySettings_IconTrayDescription2](https://github.com/sbotticelli/ProxyChanger/blob/main/img/ProxySettings_IconTrayDescription2.PNG)
