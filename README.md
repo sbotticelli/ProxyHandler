@@ -1,5 +1,5 @@
 # Proxy Handler UI
-
+If you too often manage multiple **proxy configurations** on your PC and want a **simple** and **intuitive** tool, this is for you!
 After running the **ProxySettingsTrayIcon.exe**, a trayicon will be created and by clicking on it you will be in the home of the application:
 
 <br/>
